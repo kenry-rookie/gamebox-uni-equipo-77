@@ -1,4 +1,6 @@
-# gamebox-uni-equipo-77
+# GameBox UNI
 Taller introductorio de Git/GitHub - 25 de septiemrbre
 
-## Esto es solo una prueba para el taller
+## Byte
+
+**Byte** atraviesa paredes
